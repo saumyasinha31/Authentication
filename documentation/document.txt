@@ -1,0 +1,2 @@
+this app is based on mvc architecture that is model view controller 
+there are two types of approaches-> features based and layers based approach . here features based approach is used.
