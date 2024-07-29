@@ -3,17 +3,6 @@
 
 This Flutter application provides user authentication features using Firebase. It includes functionalities such as creating an account, logging in, and logging out. The app is built using the Flutter framework and leverages Firebase's Authentication services.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **User Authentication**: Create an account, log in, and log out using Firebase Authentication.
